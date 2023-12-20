@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -12,7 +13,7 @@ public class Main {
 
         int[] arr; // Declaration
         arr = new int[5]; // Initialization
-
+        System.out.println(Arrays.toString(arr1));
         sc.close();
     }
 }

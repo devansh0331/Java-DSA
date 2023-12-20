@@ -15,7 +15,7 @@ public class Operators {
         // integer will converted into Integer that will call its toString()
 
         System.out.println("Devansh" + new ArrayList<>());
-        System.out.println("Devansh" + new Integer(56));
-        System.out.println(new ArrayList<>() + "" + new Integer(56));
+        // System.out.println("Devansh" + new Integer(56));
+        // System.out.println(new ArrayList<>() + "" + new Integer(56));
     }
 }
