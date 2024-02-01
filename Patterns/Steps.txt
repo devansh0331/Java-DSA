@@ -1,0 +1,4 @@
+How to approach
+1. OUTER FOR-LOOP: no. of lines = no. of times = no. of outer  loop will run
+2. ROW-COL RELATION: Identify for every row no., how may cols are there, types of element in col.
+3. PRINT THE DESIRED OUTPUT
